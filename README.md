@@ -6,7 +6,7 @@ A continuación se muestra una breve descripción de cada uno de los directorios
 
 - Directorio 'media/': Contiene todas las imágenes, vídeos, GIFs y archivos multimedia utilizados para documentar la wiki de nuestro proyecto.
 
-- Directorios 'modelos 2D-3D' 'piezas/': Contiene bocetos acerca de todas las piezas utilizadas para diseñar nuestro proyecto, desde piezas de diversos materiales hasta modelos en 2D o en 3D realizados en Inkscape y FreeCad.
+- Directorios 'modelos 2D-3D/' 'piezas/': Contiene bocetos acerca de todas las piezas utilizadas para diseñar nuestro proyecto, desde piezas de diversos materiales hasta modelos en 2D o en 3D realizados en Inkscape y FreeCad.
 
 - Directorio 'src/': Contiene todos los ficheros de código fuente que hemos implementado en nuestro proyecto.
 

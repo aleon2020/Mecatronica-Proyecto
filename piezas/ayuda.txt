@@ -1,1 +1,0 @@
-En este repositorio va todo lo relativo a las piezas que componen nuestro proyecto.

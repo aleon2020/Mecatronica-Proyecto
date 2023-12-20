@@ -1,1 +1,0 @@
-En este repositorio va todo lo relativo al código que se ha implementado en nuestro proyecto.

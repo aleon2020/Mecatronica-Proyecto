@@ -8,8 +8,6 @@ Below is a brief description of each of the directories that make up this reposi
 
 - [media/](https://github.com/aleon2020/Mecatronica-Proyecto/tree/main/media) directory: Contains all the images, videos, GIFs and multimedia files used to document our project's wiki.
 
-- [src/](https://github.com/aleon2020/Mecatronica-Proyecto/tree/main/src) directory: Contains all the source code files implemented in our project.
-
 Once all this has been explained, the corresponding link to the wiki is attached, where our entire project is explained in more detail:
 
 * [FINAL PROJECT WIKI](https://github.com/aleon2020/Mecatronica-Proyecto/wiki)
